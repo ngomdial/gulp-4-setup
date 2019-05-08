@@ -1,0 +1,23 @@
+{
+  "name": "eshop",
+  "version": "1.0.0",
+  "description": "This is the frontend of Sonatel Eshop",
+  "main": "index.js",
+  "author": "Adonai Nangui, Salimata Cissé",
+  "scripts": {
+    "dev": "gulp watchFile"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "boosted": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "swiper": "^4.5.0",
+    "tablesorter": "^2.31.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
